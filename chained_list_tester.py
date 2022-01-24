@@ -5,7 +5,7 @@
 Main file for testing the chained list class
 """
 
-from chained_list import ChainedList
+from chained_list_class import ChainedList
 
 __author__ = 'Mohamed Ouertani'
 

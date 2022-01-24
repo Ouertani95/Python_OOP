@@ -2,7 +2,7 @@
 
 ## About : chained_list_tester.py :
 
-This script tests the chaine list class created in chained_list_class.py 
+This script tests the chained list class created in chained_list_class.py 
 
 
 ## Installation :
